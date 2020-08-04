@@ -8,7 +8,7 @@
 
 /**
  * QUESTION 1
- * Create an array of image sources.
+ * Create an array literal of image sources.
  * Use image1.png, image2.png, and image3.png as the array values.
  */
 
@@ -42,14 +42,14 @@
  
 /**
  * QUESTION 6
- * Using the array from Question 1, remove image2.png and image3.png from the original array without modifying the original array.
+ * Using the array from Question 1, store image2.png and image3.png in a new array without modifying the original array.
  * Store the result in variable q6.
  * Hint: Refer to the array methods: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
  */
 
 /**
  * QUESTION 7
- * Using the array from Question 1, remove image2.png and image3.png from the original array, modifying the original array.
+ * Using the array from Question 1, store image2.png and image3.png in a new array, this time modifying the original array.
  * Store the result in variable q7.
  * Hint: Refer to the array methods: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
  */
